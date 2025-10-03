@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": {
+            "translate": "sodium.resource_pack.unofficial.neko",
+            "fallback": "§7Neko语言包的Sodium系列翻译喵§r\nBy Naloveyuki"
+        },
+        "_comment": "Neko-Language Pack of Sodium/Embeddium etc.",
+        "supported_formats": [15, 69],
+        "min_format": 15,
+        "max_format": 69
+    }
+}
